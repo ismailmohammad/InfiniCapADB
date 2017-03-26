@@ -5,6 +5,7 @@ Infinite ADB Screenshot Capture for Android
 Author: Mohammad Ismail<br />
 Version: 1.0.0<br />
 Date: March 25, 2017<br />
+Last Updated: March 25, 2017 <r>
 Description: This Script uses the Android Debug Bridge (ADB) over
 USB at the moment to take an initial Screenshot(Screen Capture) and then
 requires the user to press the "Enter" key to continue with the screenshot
@@ -24,6 +25,13 @@ Android Debug Bridge(ADB) from SDK (or) Minimal ADB and Fastboot<br />
 Device Specific Android ADB Drivers<br />
 USB Debugging enabled on Device<br />
 Android 4.0+<br />
+
+# Downloads:
+Android Studio: <br />
+https://developer.android.com/studio/index.html<br />
+(OR)
+Minimal ADB and Fastboot (XDA Link):<br />
+https://forum.xda-developers.com/showthread.php?t=2317790
 
 # DISCLAIMER:
 This Batch File Script should not in anyway be misused or abused in
