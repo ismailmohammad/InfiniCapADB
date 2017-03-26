@@ -29,9 +29,11 @@ USB Debugging enabled on Device<br />
 Android 4.0+<br />
 
 # Instructions: (Important)
-Place the .exe or the compiled .bat file in the same directory as the ADB<br />
+1.Download the InfiniCapADB.exe application or the InfiniCapADB.bat as a Batch File<br />
+2.Place the .exe or the compiled .bat file in the same directory as the ADB<br />
 Say the adb.exe is located at C:\Program Files (x86)\Minimal ADB and Fastboot\adb.exe,<br />
 then the InfiniCapADB.exe or InfiniCapADB.bat should also be placed alongside that for it to work<br />
+3. Run the Script and Enjoy!<br />
 
 # Downloads:
 Android Studio: <br />
