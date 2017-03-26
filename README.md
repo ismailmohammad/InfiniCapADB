@@ -19,12 +19,19 @@ Second MM = Minutes, SS.SS = Second (including Partial Seconds).
 The script will first use ADB to create a directory called
 "InfiniCapADB" at the root of the SD card and then proceed to take the initial
 screenshot. ADB errors that arise shall be output to the screen.<br />
+Compiled with Bat to Exe Converter Portable<br />
+http://download.cnet.com/Bat-To-Exe-Converter-Portable/3000-2069_4-10555897.html<br />
 
 # Requirements:
 Android Debug Bridge(ADB) from SDK (or) Minimal ADB and Fastboot<br />
 Device Specific Android ADB Drivers<br />
 USB Debugging enabled on Device<br />
 Android 4.0+<br />
+
+# Instructions: (Important)
+Place the .exe or the compiled .bat file in the same directory as the ADB<br />
+Say the adb.exe is located at C:\Program Files (x86)\Minimal ADB and Fastboot\adb.exe,<br />
+then the InfiniCapADB.exe or InfiniCapADB.bat should also be placed alongside that for it to work<br />
 
 # Downloads:
 Android Studio: <br />
