@@ -1,5 +1,5 @@
 # InfiniCapADB
-Infinite ADB Screenshot Capture for Android
+Infinite ADB Screenshot Capture for Android™
 
 # Filename: InfiniCapADB
 Author: Mohammad Ismail<br />
