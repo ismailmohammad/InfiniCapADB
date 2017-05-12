@@ -1,6 +1,6 @@
 # InfiniCapADB
 Infinite ADB Screenshot Capture for Android™<br />
-<div align="center">![alt tag](https://raw.githubusercontent.com/ismailmohammad/InfiniCapADB/master/InfiniCapADB_icon.png)</div>
+<div align="center"><img src = "https://raw.githubusercontent.com/ismailmohammad/InfiniCapADB/master/InfiniCapADB_icon.png")/></div>
 
 # Filename: InfiniCapADB
 Author: Mohammad Ismail<br />
