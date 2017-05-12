@@ -1,5 +1,5 @@
-# InfiniCapADB
-Infinite ADB Screenshot Capture for Android™<br />
+<h1 align="center">InfiniCapADB</h1>
+<h2 align="center">Infinite ADB Screenshot Capture for Android™</h2>
 <div align="center"><img src = "https://raw.githubusercontent.com/ismailmohammad/InfiniCapADB/master/InfiniCapADB_icon.png")/></div>
 
 # Filename: InfiniCapADB
